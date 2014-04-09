@@ -1,0 +1,16 @@
+# Created by http://gitignore.io
+ 
+### Linux ###
+.*
+!.gitignore
+!.git*
+*~
+ 
+ 
+### Java ###
+*.class
+ 
+# Package Files #
+*.jar
+*.war
+*.ear
